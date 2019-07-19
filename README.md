@@ -6,6 +6,6 @@ $ pkg install php
 $ cd Calls-Spams
 $ php Calls-Spams.php
 
-#Join my wa group
+#Whatsapp Group
 
 https://chat.whatsapp.com/DdFw8NenbJy9V9nmV85VBA
